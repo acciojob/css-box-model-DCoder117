@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color: white;
+	margin: 20px;
+	width: 300px;
+}
+
+.innerOne{
+	border: 15px solid blue;
+}
+
+.innerTwo{
+	padding: 50px;
+	background-color: lightblue;
+}
+
+.innetThree{
+	border: 1px solid black;
+}
+
+.innerMost{
+	border: 1px dashed black;
+}
